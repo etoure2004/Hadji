@@ -1,16 +1,5 @@
 <p align="center">
-  <svg width="100%" height="100">
-    <defs>
-      <linearGradient id="fadeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#6C63FF; stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#00C9A7; stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
-          style="fill:url(#fadeGradient); font-size: 42px; font-weight: bold; font-family: Arial, sans-serif;">
-      🌌 Welcome to my domain
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%F0%9F%8C%8C+Welcome+to+my+domain;😎+Chill+zone+only;⚡+Enter+at+your+own+risk;☕+Fueled+by+coffee+and+chaos" alt="Typing SVG" />
 </p>
 
 <p align="center"><i>(wipe your feet before stepping in)</i></p>
@@ -41,7 +30,5 @@ Chilling        [████████████-]  92%
 ---
 
 So yeah — scroll around, fork something, laugh at the chaos, or just leave knowing you’ve witnessed peak “work in progress” energy.  
-
-**PS:** If you clone anything and it breaks, congrats… you’ve unlocked the full Hadji experience.  
 
 **PS:** If you clone anything and it breaks, congrats… you’ve unlocked the full Hadji experience.  
