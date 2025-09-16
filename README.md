@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%F0%9F%8C%8C+Welcome+to+my+domain;😎+Chill+zone+only;⚡+Enter+at+your+own+risk;☕+Fueled+by+coffee+and+chaos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=🌌+Welcome+to+my+domain;😎+Chill+zone+only;⚡+Enter+at+your+own+risk;☕+Fueled+by+coffee+and+chaos" alt="Typing SVG" />
 </p>
 
 <p align="center"><i>(wipe your feet before stepping in)</i></p>
