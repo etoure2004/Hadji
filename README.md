@@ -1,6 +1,18 @@
-<h1 align="center" style="font-size: 3em; font-weight: bold; color: #6C63FF;">
-🌌 Welcome to my domain
-</h1>
+<p align="center">
+  <svg width="100%" height="100">
+    <defs>
+      <linearGradient id="fadeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#6C63FF; stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#00C9A7; stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+          style="fill:url(#fadeGradient); font-size: 42px; font-weight: bold; font-family: Arial, sans-serif;">
+      🌌 Welcome to my domain
+    </text>
+  </svg>
+</p>
+
 <p align="center"><i>(wipe your feet before stepping in)</i></p>
 
 # Yo, I’m Hadji ✌🏾  
@@ -29,5 +41,7 @@ Chilling        [████████████-]  92%
 ---
 
 So yeah — scroll around, fork something, laugh at the chaos, or just leave knowing you’ve witnessed peak “work in progress” energy.  
+
+**PS:** If you clone anything and it breaks, congrats… you’ve unlocked the full Hadji experience.  
 
 **PS:** If you clone anything and it breaks, congrats… you’ve unlocked the full Hadji experience.  
